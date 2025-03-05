@@ -13,7 +13,7 @@ const LoginPage = () => {
         {/* Logo Link */}
         <Link className="mb-12 lg:mb-20 mx-auto inline-block" to="/">
           <img
-            src="/public/logo.svg" // Ensure the path to the logo is correct
+            src="/logo.svg" // Ensure the path to the logo is correct
             alt="logo"
             className="max-w-[230px] lg:max-w-[314px]"
           />
